@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://blog.wasutech.dev"
 theme = "LoveIt"
 title = "wasuの雑記"
 # language code ["en", "zh-CN", "fr", "pl", ...]

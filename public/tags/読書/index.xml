@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - wasuの雑記</title>
-        <link>http://localhost:1313/posts/</link>
-        <description>All Posts | wasuの雑記</description>
-        <generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Mon, 13 Apr 2026 00:00:00 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>読書 - Tag - wasuの雑記</title>
+        <link>http://localhost:1313/tags/%E8%AA%AD%E6%9B%B8/</link>
+        <description>読書 - Tag - wasuの雑記</description>
+        <generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Mon, 13 Apr 2026 00:00:00 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%AA%AD%E6%9B%B8/" rel="self" type="application/rss+xml" /><item>
     <title>大東亜共栄圏を読んでいる雑記①</title>
     <link>http://localhost:1313/posts/%E5%A4%A7%E6%9D%B1%E4%BA%9C%E5%85%B1%E6%A0%84%E5%9C%8F_1/</link>
     <pubDate>Mon, 13 Apr 2026 00:00:00 &#43;0900</pubDate>
@@ -43,21 +43,6 @@
 <p>農村の働き手が兵士として根こそぎ動員されることで農業生産力が落ち、兵站で米を大量消費することで国内に回らなくなる。石油が来なければ農業機械も動かない。負のスパイラルが重なっていた。</p>
 <hr>
 <p>まだ読み途中なので続きはまた書く。資源の話が中心だが、当時の意思決定の歪みが数字を通じてよく見えてくる本だと思う。</p>]]></description>
-</item>
-<item>
-    <title>First_post</title>
-    <link>http://localhost:1313/posts/first_post/</link>
-    <pubDate>Sun, 12 Apr 2026 17:20:21 &#43;0900</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/posts/first_post/</guid>
-    <description><![CDATA[<p>主に技術記事以外を書いていく。</p>
-<p>このサイトを構築する時点では下記カテゴリの記事を書くつもり。</p>
-<ul>
-<li>アニメ</li>
-<li>読書</li>
-<li>歴史</li>
-<li>数学(数学は技術ブログ行きになるかもしれない)</li>
-</ul>]]></description>
 </item>
 </channel>
 </rss>

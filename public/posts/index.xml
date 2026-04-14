@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - wasuの雑記</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>//localhost:1313/posts/</link>
         <description>All Posts | wasuの雑記</description>
-        <generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Mon, 13 Apr 2026 00:00:00 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Mon, 13 Apr 2026 00:00:00 &#43;0900</lastBuildDate><atom:link href="//localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>大東亜共栄圏を読んでいる雑記①</title>
-    <link>http://localhost:1313/posts/%E5%A4%A7%E6%9D%B1%E4%BA%9C%E5%85%B1%E6%A0%84%E5%9C%8F_1/</link>
+    <link>//localhost:1313/posts/%E5%A4%A7%E6%9D%B1%E4%BA%9C%E5%85%B1%E6%A0%84%E5%9C%8F_1/</link>
     <pubDate>Mon, 13 Apr 2026 00:00:00 &#43;0900</pubDate>
     <author>xxxx</author>
-    <guid>http://localhost:1313/posts/%E5%A4%A7%E6%9D%B1%E4%BA%9C%E5%85%B1%E6%A0%84%E5%9C%8F_1/</guid>
-    <description><![CDATA[<p>新書を借りて読んでいる。テーマは大東亜共栄圏。68ページほど読み進めたので、頭の整理も兼ねてメモしておく。</p>
+    <guid>//localhost:1313/posts/%E5%A4%A7%E6%9D%B1%E4%BA%9C%E5%85%B1%E6%A0%84%E5%9C%8F_1/</guid>
+    <description><![CDATA[<p>新書を借りて読んでいる。テーマは大東亜共栄圏。２章くらいまでみた。覚えてなかったり、理解してない部分が多いので記憶からメモを掘り起こして清書した。</p>
 <h2 id="資源問題の構造的詰み">資源問題の構造的詰み</h2>
 <p>日本が満州を獲得したものの、肝心の石油が出なかった。近代戦争における石油の重要性を考えると、これは致命的な欠陥だった。</p>
 <p>石油を求めて目を向けたのが東南アジア、特に蘭印（現インドネシア）だった。スマトラ島やボルネオ島に大油田があり、ボーキサイト（アルミニウムの原料）やニッケルまで揃っていた。ビルマにも油田はあったが、イギリスの記録によれば「大した量ではない」らしく、メインはあくまで蘭印だった。</p>
@@ -46,10 +46,10 @@
 </item>
 <item>
     <title>First_post</title>
-    <link>http://localhost:1313/posts/first_post/</link>
+    <link>//localhost:1313/posts/first_post/</link>
     <pubDate>Sun, 12 Apr 2026 17:20:21 &#43;0900</pubDate>
     <author>xxxx</author>
-    <guid>http://localhost:1313/posts/first_post/</guid>
+    <guid>//localhost:1313/posts/first_post/</guid>
     <description><![CDATA[<p>主に技術記事以外を書いていく。</p>
 <p>このサイトを構築する時点では下記カテゴリの記事を書くつもり。</p>
 <ul>

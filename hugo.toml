@@ -58,6 +58,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   dateFormat = "2006-01-02"
   title = "wasuの雑記"
   description = "coding..."
+  ShowShareButtons = true
 
   [params.header]
     desktopMode = "fixed"

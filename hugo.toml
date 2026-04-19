@@ -70,6 +70,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       post = ""
       typeit = false
 
+  [params.author]
+    name = "wasu"
+    link = "https://wasutech.dev/"
+
   [params.footer]
     enable = true
     custom = ''
